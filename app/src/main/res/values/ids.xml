@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="listView" type="id">id</item>
+    <item name="editTextTextPersonName" type="id">4</item>
+    <item name="button" type="id">5</item>
+</resources>
